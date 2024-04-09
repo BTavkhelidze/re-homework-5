@@ -397,7 +397,7 @@ body {
 
 .section3-wide-image1-box {
   width: 86rem;
-  background-image: url(/img/GTA\ 6.png);
+  background-image: url(../img/GTA\ 6.png);
   background-repeat: no-repeat;
   height: 48.8rem;
   display: flex;
@@ -449,7 +449,7 @@ body {
 .section3-wide-image2-box {
   max-width: 26rem;
   height: 22.4rem;
-  background-image: url('/img/Rectangle\ 25.png');
+  background-image: url('../img/Rectangle\ 24.png');
   background-repeat: no-repeat;
   display: flex;
   align-items: flex-end;
@@ -493,7 +493,7 @@ body {
 .section3-wide-image3-box {
   max-width: 26rem;
   height: 22.4rem;
-  background-image: url('/img/Rectangle\ 24.png');
+  background-image: url('../img/Rectangle\ 24.png');
   background-repeat: no-repeat;
   display: flex;
   align-items: flex-end;
