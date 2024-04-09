@@ -513,8 +513,8 @@ body {
   display: flex;
   flex-direction: row;
 
-  background-image: url('/img/fundo.svg');
   margin: 0 14rem;
+  background-image: url('/img/fundo.jpg');
   justify-content: space-between;
 }
 
