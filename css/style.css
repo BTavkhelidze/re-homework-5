@@ -514,7 +514,7 @@ body {
   flex-direction: row;
 
   margin: 0 14rem;
-  background-image: url('/img/fundo.jpg');
+  background-image: url('../img/fundo.jpg');
   justify-content: space-between;
 }
 
