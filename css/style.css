@@ -397,7 +397,7 @@ body {
 
 .section3-wide-image1-box {
   width: 86rem;
-  background-image: url('/img/GTA\ 6.png');
+  background-image: url(/img/GTA\ 6.png);
   background-repeat: no-repeat;
   height: 48.8rem;
   display: flex;
